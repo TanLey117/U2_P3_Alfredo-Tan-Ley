@@ -116,12 +116,12 @@ input, select, textarea {
 /* Type */
 
 	body, input, select, textarea {
-		color: #ffffff;
-		font-family: "Times New Roman", Helvetica, sans-serif;
-		font-size: 19pt;
-		font-weight: 300;
-		letter-spacing: 0.025em;
-		line-height: 1.65;
+	color: #785616;
+	font-family: "Times New Roman", Helvetica, sans-serif;
+	font-size: 19pt;
+	font-weight: 300;
+	letter-spacing: 0.025em;
+	line-height: 1.65;
 	}
 
 		@media screen and (max-width: 1680px) {
