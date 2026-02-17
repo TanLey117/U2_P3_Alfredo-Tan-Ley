@@ -1916,7 +1916,7 @@ input, select, textarea {
 		border-radius: 5px;
 		color: inherit;
 		display: block;
-		outline: 0;
+		outline: 1px;
 		padding: 0 1em;
 		text-decoration: none;
 		width: 100%;
