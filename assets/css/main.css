@@ -168,7 +168,7 @@ input, select, textarea {
 		}
 
 	strong, b {
-		color: rgba(212, 212, 255, 0.1);
+		color: #ffffff;
 		font-weight: 600;
 	}
 
@@ -181,7 +181,7 @@ input, select, textarea {
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: rgba(212, 212, 255, 0.035);
+		color: #ffffff;
 		font-weight: 600;
 		line-height: 1.65;
 		margin: 0 0 1em 0;
